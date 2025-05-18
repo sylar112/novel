@@ -1,0 +1,6 @@
+firebase-admin==6.5.0
+Flask==3.0.3
+python-telegram-bot==21.10
+google-generativeai==0.8.4
+graphviz==0.20.3
+networkx==3.4.2
